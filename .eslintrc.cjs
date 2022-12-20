@@ -44,6 +44,6 @@ module.exports = defineConfig({
       },
     ],
     'space-before-function-paren': 'off',
-    'linebreak-style': 'off',
+    'linebreak-style': ['error', 'unix'],
   },
 });
