@@ -15,5 +15,5 @@ function sayHello(person: string) {
   return 'Hello, ' + person;
 }
 
-const user = 'jim';
+const user = 'jim123';
 console.log(sayHello(user));
