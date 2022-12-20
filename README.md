@@ -1,8 +1,8 @@
 # ChatTG_Bot
 
 ## 簡介
-typescript + eslint + prettier模板
-並整合熱更新功能
+Typescript + Eslint + Prettier
+並整合熱更新功能的模板
 
 ## node version
 v18.12.1
