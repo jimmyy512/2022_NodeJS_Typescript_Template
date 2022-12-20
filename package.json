@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint:eslint": "eslint \"{src,mock}/**/*.{vue,ts,tsx}\" --fix",
+    "lint:eslintAll": "eslint . --fix",
     "build": "rimraf dist && npx tsc",
     "serve": "concurrently \"npx tsc -w\" \"nodemon dist/index.js\""
   },
