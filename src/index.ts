@@ -12,8 +12,8 @@ app.listen(port, () => {
 });
 
 function sayHello(person: string) {
-  return 'Hello , ' + person;
+  return 'Hello 123 , ' + person;
 }
 
-const user = 'jimmy';
+const user = 'jimmyy';
 console.log(sayHello(user));
